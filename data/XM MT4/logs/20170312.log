@@ -1,0 +1,168 @@
+0	21:09:08.309	XM MT4 build 1010 started (Trading Point Of Financial Instruments Ltd)
+0	21:09:08.312	Microsoft Windows XP (X86 based PC), IE 09.00, 4 x Intel Pentium 4  2.40GHz, RAM: 1548 / 8192 Mb, HDD: 31722 / 238207 Mb, GMT+07:00
+0	21:09:08.312	Data Folder: C:\Program Files\XM MT4
+0	21:10:15.094	XM MT4 build 1010 started (Trading Point Of Financial Instruments Ltd)
+0	21:10:15.094	Microsoft Windows XP (X86 based PC), IE 09.00, 4 x Intel Pentium 4  2.40GHz, RAM: 1332 / 8192 Mb, HDD: 31725 / 238207 Mb, GMT+07:00
+0	21:10:15.094	Data Folder: C:\Program Files\XM MT4
+1	21:10:28.015	MQL5.community: authorization failed
+0	21:10:28.097	XM MT4 build 1010 stopped
+0	21:10:25.782	LiveUpdate: updater - started for portable 'C:\Program Files\XM MT4'
+0	21:10:25.782	LiveUpdate: updater - try to close terminal
+0	21:10:29.128	LiveUpdate: updater - files update started
+0	21:10:29.202	LiveUpdate: copied from 'C:\users\mario\Application Data\MetaQuotes\WebInstall\mt4clw\metaeditor.exe' to 'C:\Program Files\XM MT4\metaeditor.exe'
+0	21:10:29.235	LiveUpdate: copied from 'C:\users\mario\Application Data\MetaQuotes\WebInstall\mt4clw\terminal.exe' to 'C:\Program Files\XM MT4\terminal.exe'
+0	21:10:29.235	LiveUpdate: updater - files update finished
+0	21:10:29.235	LiveUpdate: updater - clean obsolete data
+0	21:10:29.236	LiveUpdate: updater - start terminal
+0	21:10:29.274	LiveUpdate: updater - finished for portable 'C:\Program Files\XM MT4'
+0	21:10:31.568	LiveUpdate: update C:\Program Files\XM MT4\MQL4 folder started
+0	21:10:31.572	LiveUpdate: C:\Program Files\XM MT4\MQL4/Experts/MACD Sample.mq4 updated
+0	21:10:31.572	LiveUpdate: C:\Program Files\XM MT4\MQL4/Experts/Moving Average.mq4 updated
+0	21:10:31.575	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Arrays/Array.mqh updated
+0	21:10:31.577	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Arrays/ArrayChar.mqh updated
+0	21:10:31.578	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Arrays/ArrayDouble.mqh updated
+0	21:10:31.579	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Arrays/ArrayFloat.mqh updated
+0	21:10:31.580	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Arrays/ArrayInt.mqh updated
+0	21:10:31.581	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Arrays/ArrayLong.mqh updated
+0	21:10:31.582	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Arrays/ArrayObj.mqh updated
+0	21:10:31.583	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Arrays/ArrayShort.mqh updated
+0	21:10:31.583	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Arrays/ArrayString.mqh updated
+0	21:10:31.584	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Arrays/List.mqh updated
+0	21:10:31.584	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Arrays/Tree.mqh updated
+0	21:10:31.585	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Arrays/TreeNode.mqh updated
+0	21:10:31.587	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Canvas/Canvas.mqh updated
+0	21:10:31.589	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/ChartObjects/ChartObject.mqh updated
+0	21:10:31.591	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/ChartObjects/ChartObjectPanel.mqh updated
+0	21:10:31.593	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/ChartObjects/ChartObjectsArrows.mqh updated
+0	21:10:31.595	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/ChartObjects/ChartObjectsBmpControls.mqh updated
+0	21:10:31.598	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/ChartObjects/ChartObjectsChannels.mqh updated
+0	21:10:31.600	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/ChartObjects/ChartObjectsFibo.mqh updated
+0	21:10:31.601	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/ChartObjects/ChartObjectsGann.mqh updated
+0	21:10:31.602	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/ChartObjects/ChartObjectsLines.mqh updated
+0	21:10:31.603	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/ChartObjects/ChartObjectsShapes.mqh updated
+0	21:10:31.605	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/ChartObjects/ChartObjectsTxtControls.mqh updated
+0	21:10:31.607	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Charts/Chart.mqh updated
+0	21:10:31.610	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/BmpButton.mqh updated
+0	21:10:31.613	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/Button.mqh updated
+0	21:10:31.615	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/CheckBox.mqh updated
+0	21:10:31.617	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/CheckGroup.mqh updated
+0	21:10:31.620	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/ComboBox.mqh updated
+0	21:10:31.621	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/DateDropList.mqh updated
+0	21:10:31.623	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/DatePicker.mqh updated
+0	21:10:31.625	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/Defines.mqh updated
+0	21:10:31.627	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/Dialog.mqh updated
+0	21:10:31.629	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/Edit.mqh updated
+0	21:10:31.630	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/Label.mqh updated
+0	21:10:31.632	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/ListView.mqh updated
+0	21:10:31.633	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/Panel.mqh updated
+0	21:10:31.635	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/Picture.mqh updated
+0	21:10:31.637	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/RadioButton.mqh updated
+0	21:10:31.640	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/RadioGroup.mqh updated
+0	21:10:31.642	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/Rect.mqh updated
+0	21:10:31.644	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/CheckBoxOff.bmp updated
+0	21:10:31.645	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/CheckBoxOn.bmp updated
+0	21:10:31.646	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/Close.bmp updated
+0	21:10:31.647	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/CloseDisable.bmp updated
+0	21:10:31.647	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/CloseOff.bmp updated
+0	21:10:31.648	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/CloseOn.bmp updated
+0	21:10:31.649	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/DateDropOff.bmp updated
+0	21:10:31.649	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/DateDropOn.bmp updated
+0	21:10:31.651	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/Down.bmp updated
+0	21:10:31.652	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/DownDisable.bmp updated
+0	21:10:31.653	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/DownSmall.bmp updated
+0	21:10:31.653	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/DownTransp.bmp updated
+0	21:10:31.655	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/down_smoll.bmp updated
+0	21:10:31.657	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/DropOff.bmp updated
+0	21:10:31.657	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/DropOn.bmp updated
+0	21:10:31.658	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/ExpandDisable.bmp updated
+0	21:10:31.659	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/ExpandOff.bmp updated
+0	21:10:31.661	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/ExpandOn.bmp updated
+0	21:10:31.663	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/HelpDisable.bmp updated
+0	21:10:31.665	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/HelpOff.bmp updated
+0	21:10:31.666	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/HelpOn.bmp updated
+0	21:10:31.666	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/Left.bmp updated
+0	21:10:31.667	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/LeftDisable.bmp updated
+0	21:10:31.668	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/LeftTransp.bmp updated
+0	21:10:31.668	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/RadioButtonOff.bmp updated
+0	21:10:31.669	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/RadioButtonOn.bmp updated
+0	21:10:31.670	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/Restore.bmp updated
+0	21:10:31.671	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/RestoreDisable.bmp updated
+0	21:10:31.671	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/RestoreOff.bmp updated
+0	21:10:31.672	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/RestoreOn.bmp updated
+0	21:10:31.672	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/Right.bmp updated
+0	21:10:31.675	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/RightDisable.bmp updated
+0	21:10:31.676	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/RightTransp.bmp updated
+0	21:10:31.676	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/SpinDec.bmp updated
+0	21:10:31.677	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/SpinInc.bmp updated
+0	21:10:31.678	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/ThumbHor.bmp updated
+0	21:10:31.678	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/ThumbHorDisable.bmp updated
+0	21:10:31.679	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/ThumbVert.bmp updated
+0	21:10:31.679	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/ThumbVertDisable.bmp updated
+0	21:10:31.680	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/Turn.bmp updated
+0	21:10:31.681	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/TurnOff.bmp updated
+0	21:10:31.681	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/TurnOn.bmp updated
+0	21:10:31.682	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/Up.bmp updated
+0	21:10:31.682	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/UpDisable.bmp updated
+0	21:10:31.683	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/UpSmall.bmp updated
+0	21:10:31.683	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/UpTransp.bmp updated
+0	21:10:31.684	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/res/up_smoll.bmp updated
+0	21:10:31.684	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/Scrolls.mqh updated
+0	21:10:31.685	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/SpinEdit.mqh updated
+0	21:10:31.685	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/TimePicker.mqh updated
+0	21:10:31.686	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/Wnd.mqh updated
+0	21:10:31.687	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/WndClient.mqh updated
+0	21:10:31.687	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/WndContainer.mqh updated
+0	21:10:31.688	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Controls/WndObj.mqh updated
+0	21:10:31.689	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Files/File.mqh updated
+0	21:10:31.690	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Files/FileBin.mqh updated
+0	21:10:31.691	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Files/FilePipe.mqh updated
+0	21:10:31.691	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Files/FileTxt.mqh updated
+0	21:10:31.692	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Indicators/BillWilliams.mqh updated
+0	21:10:31.692	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Indicators/Custom.mqh updated
+0	21:10:31.693	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Indicators/Indicator.mqh updated
+0	21:10:31.694	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Indicators/Indicators.mqh updated
+0	21:10:31.694	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Indicators/Oscilators.mqh updated
+0	21:10:31.695	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Indicators/Series.mqh updated
+0	21:10:31.696	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Indicators/TimeSeries.mqh updated
+0	21:10:31.696	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Indicators/Trend.mqh updated
+0	21:10:31.697	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Indicators/Volumes.mqh updated
+0	21:10:31.698	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/MovingAverages.mqh updated
+0	21:10:31.698	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Object.mqh updated
+0	21:10:31.698	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/stderror.mqh updated
+0	21:10:31.699	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/stdlib.mqh updated
+0	21:10:31.699	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/StdLibErr.mqh updated
+0	21:10:31.700	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Strings/String.mqh updated
+0	21:10:31.701	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/Tools/DateTime.mqh updated
+0	21:10:31.701	LiveUpdate: C:\Program Files\XM MT4\MQL4/Include/WinUser32.mqh updated
+0	21:10:31.702	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Accelerator.mq4 updated
+0	21:10:31.702	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Accumulation.mq4 updated
+0	21:10:31.704	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Alligator.mq4 updated
+0	21:10:31.705	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/ATR.mq4 updated
+0	21:10:31.705	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Awesome.mq4 updated
+0	21:10:31.706	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Bands.mq4 updated
+0	21:10:31.706	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Bears.mq4 updated
+0	21:10:31.707	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Bulls.mq4 updated
+0	21:10:31.707	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/CCI.mq4 updated
+0	21:10:31.708	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Custom Moving Averages.mq4 updated
+0	21:10:31.709	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Examples/SimplePanel/PanelDialog.mqh updated
+0	21:10:31.709	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Examples/SimplePanel/SimplePanel.mq4 updated
+0	21:10:31.710	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Heiken Ashi.mq4 updated
+0	21:10:31.710	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Ichimoku.mq4 updated
+0	21:10:31.710	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/iExposure.mq4 updated
+0	21:10:31.711	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/MACD.mq4 updated
+0	21:10:31.711	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Momentum.mq4 updated
+0	21:10:31.711	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/OsMA.mq4 updated
+0	21:10:31.712	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Parabolic.mq4 updated
+0	21:10:31.712	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/RSI.mq4 updated
+0	21:10:31.712	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/Stochastic.mq4 updated
+0	21:10:31.713	LiveUpdate: C:\Program Files\XM MT4\MQL4/Indicators/ZigZag.mq4 updated
+0	21:10:31.713	LiveUpdate: C:\Program Files\XM MT4\MQL4/Libraries/stdlib.mq4 updated
+0	21:10:31.714	LiveUpdate: C:\Program Files\XM MT4\MQL4/Scripts/Examples/DLL/DLLSample.cpp updated
+0	21:10:31.714	LiveUpdate: C:\Program Files\XM MT4\MQL4/Scripts/Examples/DLL/DLLSample.def updated
+0	21:10:31.714	LiveUpdate: C:\Program Files\XM MT4\MQL4/Scripts/Examples/DLL/DLLSample.vcxproj updated
+0	21:10:31.715	LiveUpdate: C:\Program Files\XM MT4\MQL4/Scripts/Examples/DLL/DLLSampleTester.mq4 updated
+0	21:10:31.716	LiveUpdate: C:\Program Files\XM MT4\MQL4/Scripts/Examples/DLL/Libraries/DLLSample.dll updated
+0	21:10:31.716	LiveUpdate: C:\Program Files\XM MT4\MQL4/Scripts/Examples/Pipes/PipeClient.mq4 updated
+0	21:10:31.717	LiveUpdate: C:\Program Files\XM MT4\MQL4/Scripts/Examples/Pipes/PipeClientPure.mq4 updated
+0	21:10:31.717	LiveUpdate: C:\Program Files\XM MT4\MQL4/Scripts/PeriodConverter.mq4 updated
+0	21:10:31.717	LiveUpdate: update C:\Program Files\XM MT4\MQL4 folder finished
