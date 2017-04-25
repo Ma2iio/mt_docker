@@ -3,6 +3,7 @@ services:
   mt4:
     build: ./mt4
     container_name: mt4_mario
+    privileged: true
     ports:
       - 15901:5900
     volumes:

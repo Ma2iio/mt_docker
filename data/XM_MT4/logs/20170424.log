@@ -1,0 +1,16 @@
+0	13:38:37.944	XM MT4 build 1045 started (Trading Point Of Financial Instruments Ltd)
+0	13:38:37.946	Microsoft Windows XP (x64 based PC), IE 09.00, 2 x Intel Pentium 4  2.40GHz, RAM: 1697 / 2001 Mb, HDD: 40596 / 46806 Mb, GMT+00:00
+0	13:38:37.946	Data Folder: Z:\wine\XM_MT4
+0	13:59:14.054	'16136950': login on XM.COM-Real 16 through REAL16 - DC01 (ping: 14.06 ms)
+0	13:59:14.921	'16136950': previous successful authorization performed from 163.172.191.216
+0	13:59:23.037	'16136950': auto connecting to a better access point REAL16 - DC11 (ping is 16.61 ms)
+0	13:59:23.456	'16136950': login on XM.COM-Real 16 through REAL16 - DC11 (ping: 16.61 ms)
+0	13:59:23.943	'16136950': login datacenter on XM.COM-Real 16 through REAL16 - DC11 (ping: 16.61 ms)
+0	13:59:24.205	'16136950': previous successful authorization performed from 212.47.229.4
+2	13:59:55.842	Expert MACD Sample EURUSDmicro,H1: loaded successfully
+2	13:59:59.348	Expert MACD Sample EURUSDmicro,H1: removed
+2	14:03:09.683	Expert MartingaleBot.v.3 EURUSDmicro,H1: loaded successfully
+2	14:03:17.958	Expert MartingaleBot.v.3 EURUSDmicro,H1: removed
+2	15:40:47.424	Expert Martingale2.3c EURUSDmicro,H1: loaded successfully
+2	15:40:50.910	Expert Martingale2.3c EURUSDmicro,H1: removed
+0	15:41:30.388	XM MT4 build 1045 stopped
